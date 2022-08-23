@@ -1,0 +1,22 @@
+.ser{
+    
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    transition: ease-in .2s;
+    
+}
+
+.ser:hover{
+    box-shadow: 10px 10px 20px;
+    cursor: pointer;
+    margin-top: -20px;
+}
+
+.card img{
+    height: 20vh;
+}
+
+.body{
+    scroll-behavior: smooth;
+}
